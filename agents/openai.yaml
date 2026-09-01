@@ -1,0 +1,4 @@
+interface:
+  display_name: "周期报告生成器"
+  short_description: "为财务部生成带当天日期、可输出HTML或PDF的中文周报和月报"
+  default_prompt: "请根据我提供的信息生成财务部周报或月报，并按我选择的格式输出为 HTML 或 PDF；缺失信息请明确标注，不要编造。"
